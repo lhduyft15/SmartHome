@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "745034137344",
+    "firebase_url": "https://smarthome-d09c4.firebaseio.com",
+    "project_id": "smarthome-d09c4",
+    "storage_bucket": "smarthome-d09c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745034137344:android:d8b4a417e9132017",
+        "android_client_info": {
+          "package_name": "com.home.lhduy.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745034137344-pd04dmq441d9e17vmutf46lf5l53qjaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.home.lhduy.smarthome",
+            "certificate_hash": "281923299ad6092c000b034aaeb560392a33d8f7"
+          }
+        },
+        {
+          "client_id": "745034137344-eo8pfslqvbgoakcd0uss7bjlg2dl77e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWL8HPCnsugnLocISARvCRKB8JecsfE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745034137344-eo8pfslqvbgoakcd0uss7bjlg2dl77e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
